@@ -48,8 +48,8 @@ markup:
 
 params:
   author: Rohfel Adyaraka Christianugrah Puspoasmoro
-  authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
+  authorimage: 
+  og_image: 
   moto: ""
   description: "A website for you to learn Latin through easy to follow tutorials and also short stories."
   disable_theme_toggle: false
@@ -57,11 +57,12 @@ params:
 
   p1:
     heading: "Welcome to InsertLatin.space"
-    image: "images/pages/our-mission.png"
+    image: "images/roman-statue.jpg"
     content:
       - text: "The difficulty that arises from learning such an old language is inevitable. Not only because of the complex grammar system that is already baked into the language itself but also from the seemingly not so many resources available out there."
-      - text: "As an aspirant student myself, I have dwelt and spent so much time to find good resources and also, most importantly, a good method to improve my Latin language skills. I found out that the best method to learn a language is through stories that are graded to match your current language skill level."
+      - text: "As an aspirant student myself, I have dwelt and spent so much time to find good resources and also, most importantly, a good method to improve my Latin language skills. I found out that the best method to learn a language is through stories that are graded to match your current language skill level. One thing I also want to point out is I will be using macrons throughout my writing. I find it very useful in terms of guessing of what declensions the words are and also they also help when we want to learn speaking Latin."
       - text: "That is why by making this website, I hope I could give you my own personal way to learn Latin through stories and also easy to follow tutorials."
+      - text: "If you have any suggestions regarding this small project, feel free to reach me out on GitHub. I am planning to make this site available publicy to edit and contribute, but that require some time which I basically do not have much."
   p2:
     heading: Our Latest Posts
     content:
